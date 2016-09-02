@@ -1,21 +1,21 @@
 {
-  "name": "eslint-config-standard-jsx",
+  "name": "@engrain/eslint-config-standard-jsx",
   "description": "JavaScript Standard Style JSX support - ESLint Shareable Config",
   "version": "3.0.0",
   "author": {
-    "name": "Feross Aboukhadijeh",
-    "email": "feross@feross.org",
-    "url": "http://feross.org/"
+    "name": "Patrik Vormittag",
+    "email": "pvormittag@engrain.com",
+    "url": "http://engrain.com/"
   },
   "bugs": {
-    "url": "https://github.com/feross/eslint-config-standard-jsx/issues"
+    "url": "https://github.com/engrain-io/eslint-config-standard-jsx/issues"
   },
   "devDependencies": {
     "eslint": "^3.0.1",
     "eslint-plugin-react": ">=2.7.1",
     "tape": "^4.0.0"
   },
-  "homepage": "https://github.com/feross/eslint-config-standard-jsx",
+  "homepage": "https://github.com/engrain-io/eslint-config-standard-jsx",
   "keywords": [
     "JavaScript Standard Style",
     "check",
@@ -51,7 +51,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/feross/eslint-config-standard-jsx.git"
+    "url": "git://github.com/engrain-io/eslint-config-standard-jsx.git"
   },
   "scripts": {
     "test": "tape test/*.js"
